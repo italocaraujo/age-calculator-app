@@ -16,7 +16,7 @@ A calculadora de idade permite a inserção de uma data de nascimento e calcula 
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://age-calculator-app-puce-eight.vercel.app) ou [baixá-lo](https://github.com/htaluss/site-apple/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto inicial](https://age-calculator-app-puce-eight.vercel.app) ou [baixá-lo](https://github.com/italocaraujo/age-calculator-app/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
